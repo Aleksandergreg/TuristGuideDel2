@@ -101,4 +101,8 @@ class TouristControllerTest {
     @Test
     void deleteAttraction() {
     }
+    @Test
+    void somethingToPush(){
+
+    }
 }
